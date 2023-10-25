@@ -12,4 +12,21 @@ public class Carrinho {
     }
 
 
+    public void limparCarrinho() {
+    }
+
+    public int getQuantidadeDeItens() {
+    }
+
+    public void adicionarItem(Produto produto1, int i) {
+    }
+
+    public void aplicarDesconto(int i) {
+    }
+
+    public double getValorTotal() {
+    }
+
+    public void removerItem(Produto produto1) {
+    }
 }
